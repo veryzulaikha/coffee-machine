@@ -1,6 +1,6 @@
 # coffee-machine
 This project imitates the system of operation of a coffee machine. 
-It takes coffee orders and accepts payments in dollars and gives change when applicable.
+It takes coffee orders, accepts payments in dollars and gives change when applicable.
 It tracks payments and add new payments to existing ones.
 It declines orders if the resources (water, milk, coffee) are not enough to complete the order.
 It declines order if payment made is not sufficient.
